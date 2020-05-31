@@ -1,10 +1,11 @@
 ---
 title: Food To Avoid
 layout: post
-draft: true
 ---
 
 # Following Food we need to avoid 
 
-* Hello 
-* World
+* any kind of Processed food
+* Noodles 
+* Pasta 
+* Deep fried food 
