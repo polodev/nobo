@@ -1,0 +1,50 @@
+---
+title: Exercise
+layout: post
+---
+
+
+Please Search on Google for clarification 
+
+## Morning exercise
+* Warmup - 5 Minutes
+* Jog in Place (In same place) - 5 Minutes 
+* Surya Namasker (Sun Salutation) - 12 times 
+
+## Whole Day Exercise ( Whenever you remember )
+
+* Plank - 3 times in whole day 
+* Squat - 3 times in whole day 
+* Lying Down Bicycle Exercise / Lying Down Leg Up and Down
+<!-- * Pushup - 3 times in whole day  -->
+
+
+
+## Videos 
+
+**Jog In Place**          
+{% include anchor.html url="https://www.youtube.com/watch?v=uymTGsML0HA" %}   
+
+**Surya Namasker (Sun Salutation)**          
+{% include anchor.html url="https://www.youtube.com/watch?v=hVc_EN0lbwo" %}   
+
+**Squat**          
+{% include anchor.html url="https://www.youtube.com/watch?v=aclHkVaku9U" %}   
+{% include anchor.html url="https://www.youtube.com/watch?v=mGvzVjuY8SY" %}   
+
+**Plank**         
+{% include anchor.html url="https://www.youtube.com/watch?v=ASdvN_XEl_c" %}   
+
+**Lying Down Bicycle Exercise**        
+{% include anchor.html url="https://www.youtube.com/watch?v=P2W2_OK_1Ss" %}   
+{% include anchor.html url="https://www.youtube.com/watch?v=9FGilxCbdz8" %}   
+
+
+
+
+
+## Helpful links 
+{% include anchor.html url="https://www.livestrong.com/article/452928-how-to-jog-in-place-to-lose-weight/" %}   
+{% include anchor.html url="https://www.healthline.com/nutrition/44-healthy-low-carb-foods" %}   
+{% include anchor.html url="https://www.lifehack.org/292578/7-things-that-will-happen-when-you-do-planking-exercise-every-day" %}   
+

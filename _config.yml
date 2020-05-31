@@ -1,0 +1,26 @@
+# all students should keep their github repo name lower case with username prefix
+# structures
+baseurl: '/nobo'
+name: Nobo
+title: Nobo
+permalink: /:title/
+all_batches: https://poloey.gitlab.io/
+
+# about page
+## co-ordinate name can be removed. Since I am not adding her name in about page
+
+# personal
+
+#sass:
+#  style: compressed
+collections:
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      published: true
+      no: 1
+
+
