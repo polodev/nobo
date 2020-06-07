@@ -11,6 +11,8 @@ layout: post
 * Raisin ( not more than 20pcs daily ) - increase blood
 * banana - increase energy level
 * Oranges (Limited amount)
+* Spinach
+* Cabbage
 * Egg
 * chicken
 * Turkey
@@ -23,10 +25,8 @@ layout: post
 * Cucumber
 * Green Beans
 
-### Other Low-Carb Vegetables
+<!-- ### Other Low-Carb Vegetables
 * Celery
-* Spinach
 * Zucchini
 * Swiss chard
-* Cabbage
-
+ -->
