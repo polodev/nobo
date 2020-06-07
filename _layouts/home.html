@@ -7,11 +7,11 @@ layout: default
   </div>
 
   <ul class="list-group my-2">
-    {% assign sorted = site.posts | sort: 'date' %}
+    {% assign sorted = site.posts | sort: 'date' | reverse %}
     {% for post in sorted %}
        {% if post.draft %} {% continue %}{% endif %}
       <li class="list-group-item bg_random_color hover_random_color">
-        <a href="{{site.url}}{{site.baseurl}}{{ post.url }}">
+        <a class="display-6" href="{{site.url}}{{site.baseurl}}{{ post.url }}">
           {{post.title}} - 
           <span>
             {{ post.date | date: "%b %d, %Y - %a" }}
