@@ -3,8 +3,13 @@ title: Motivation article and video
 layout: post
 ---
 
-## Videos 
+## Article
+**পুরনো 'মোটা' চেহারায় ফিরতে নারাজ, লকডাউনেও সারার শরীর বেয়ে ঝরল ঘাম!**       
+{% include anchor.html url="https://bengali.news18.com/news/entertainment/gossip-sara-ali-khan-work-outs-with-her-brother-ibrahim-pbd-459369.html" %}   
 
+
+
+## Videos 
 
 **Sara Ali Khan Weight Loss Transformation Video From 125 Kg To 45 Kg**          
 {% include anchor.html url="https://www.youtube.com/watch?v=CttdVBdTVJY" %}   
