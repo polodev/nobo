@@ -1,5 +1,5 @@
 ---
-title: Motivation article and video
+title: Motivation / Informative article and video
 layout: post
 ---
 
@@ -13,6 +13,9 @@ layout: post
 
 **Sara Ali Khan Weight Loss Transformation Video From 125 Kg To 45 Kg**          
 {% include anchor.html url="https://www.youtube.com/watch?v=CttdVBdTVJY" %}   
+
+**১ মাসে ওজন কমানোর উপায় - ডায়েটিশিয়ান নুসরাত দিপা**          
+{% include anchor.html url="https://www.youtube.com/watch?v=U0eX-zwDne4" %}   
 
 
 **Bhumi Pednekar Weight Loss Secret | Fat to Fit Body Transformation | BMF**          
