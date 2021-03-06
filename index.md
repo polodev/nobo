@@ -3,7 +3,11 @@ layout: page
 title: Last Message 
 active: last-message
 ---
-Will delete everything belongs to YOU        
+
+সব স্মৃতি delete করে দিব। 
+
+ভালো থেকো।
+
 
 
 
