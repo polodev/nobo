@@ -158,7 +158,9 @@ active: last-message
  
 আজীবন তোমার well wisher থাকবো। যদিও আমার লাইফের ১২ টা বাজিয়ে দিয়ে গেছো।  
 
-Wish প্রকৃতি, তোমার মা, বাবা, প্রণবের বিচার করবে। But তুমি happy থাকো as my first love.
+You and Your mother live in a Fantasy world. 
+
+Wish প্রকৃতি তোমার মা, বাবা, প্রণবের বিচার করবে। 
 
 Take care
 
