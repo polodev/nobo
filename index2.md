@@ -151,8 +151,6 @@ active: last-message
 আমার কাছে তোমার কিছু স্মৃতি আছে। <a href="https://drive.google.com/folderview?id=1p5SLGJiCCdnoZDgsc5WtULSFZKo9qevY">https://drive.google.com/folderview?id=1p5SLGJiCCdnoZDgsc5WtULSFZKo9qevY</a> 
 
 হয়তো কিছু দিন পরে সব ডিলিট করে দিব।
-
-ভালো থেকো।       
  
 আজীবন তোমার well wisher থাকবো। যদিও আমার লাইফের ১২ টা বাজিয়ে দিয়ে গেছো।  
 
