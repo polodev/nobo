@@ -6,16 +6,17 @@ layout: post
 
 Please Search on Google for clarification 
 
-## Morning exercise
+<!-- ## Morning exercise -->
+## Exercise
 * Warmup - 5 Minutes
 * Jog in Place (In same place) - 5 Minutes 
 * Surya Namasker (Sun Salutation) - 12 times 
 
-## Whole Day Exercise ( Whenever you remember )
+<!-- ## Whole Day Exercise ( Whenever you remember )
 
 * Plank - 3 times in whole day 
 * Squat - 3 times in whole day 
-* Lying Down Bicycle Exercise / Lying Down Leg Up and Down
+* Lying Down Bicycle Exercise / Lying Down Leg Up and Down -->
 <!-- * Pushup - 3 times in whole day  -->
 
 
