@@ -1,11 +1,9 @@
 ---
-layout: page
-title: Last Message 
-active: last-message
+title: Life Style 
+layout: home
+active: home
 ---
 
-
-Take care
 
 
 
