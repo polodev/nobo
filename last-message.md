@@ -4,7 +4,7 @@ title: Last Message
 active: last-message
 ---
 
-![love-definition](assets/images/love-definition.jpg){:class="img-responsive"}
+<!-- ![love-definition](assets/images/love-definition.jpg){:class="img-responsive"} -->
 
 আমার যদি মাসে বর্তমানে ৫০,০০০ টাকা আয় হতো, আমি তোমাকে ধরে রাখতে চাইতাম। ঢাকাতে আমরা নতুন বাসায় থাকা শুরু করি জানুয়ারি ৯, ২০২০ থেকে। Around March 25 আমরা কচুয়া যাই। ঢাকা থাকা কালীন সময়ে অর্ধেক  এর মত সময় তুমি norshingdhi তে ছিলে। আমাদের বাড়িতে ছিলে about 30 days। 
 
